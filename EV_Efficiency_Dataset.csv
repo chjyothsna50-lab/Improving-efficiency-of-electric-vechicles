@@ -1,0 +1,11 @@
+Make,Model,Battery_Capacity_kWh,Range_km,Energy_Consumption_WhPerKm,Fast_Charging
+Tesla,Model 3,60.0,450,133,1
+Nissan,Leaf,40.0,240,166,0
+BMW,i3,42.0,260,161,1
+Hyundai,Kona,64.0,452,141,1
+Tata,Nexon,30.2,312,193,1
+Mahindra,eVerito,21.2,181,210,0
+MG,ZS EV,44.5,340,152,1
+Kia,EV6,77.4,528,147,1
+Audi,e-tron,95.0,436,218,1
+Mercedes,EQC,80.0,414,193,1
